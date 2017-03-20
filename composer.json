@@ -1,0 +1,16 @@
+{
+    "name": "eataly/creditmemo-workflow",
+    "description": "This module enables the usage of the creditmemo status giving the users the possibility to confirm a creditmemo that has been created in an \"Open\" status.",
+    "version": "1.0.0",
+    "license": "Apache-2.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Alessandro Niciforo",
+            "email":"a.niciforo@eataly.it"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+src/app/code/community/Eataly/CreditmemoWorkflow     app/code/community/Eataly/CreditmemoWorkflow
+src/app/design/adminhtml/default/default/template/eataly_creditmemoworkflow app/design/adminhtml/default/default/template/eataly_creditmemoworkflow
+src/app/etc/modules/Eataly_CreditmemoWorkflow.xml    app/etc/modules/Eataly_CreditmemoWorkflow.xml
